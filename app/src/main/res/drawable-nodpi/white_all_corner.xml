@@ -1,0 +1,6 @@
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drop Shadow Stack -->
+    <corners android:radius="10dp"/>
+    <stroke android:color="#4A4A4A" android:width="2dp"/>
+    <solid android:color="@color/white"/>
+</shape>
